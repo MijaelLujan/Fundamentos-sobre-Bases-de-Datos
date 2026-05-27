@@ -1,6 +1,6 @@
 # Fundamentos sobre Bases de Datos
 
-Curso de 16 módulos para llevar el conocimiento de bases de datos a nivel senior, organizado en cinco ejes: teoría formal, diseño, motor, analítica e integración. Cada módulo construye sobre el anterior con explicaciones en profundidad, ejemplos en SQL (PostgreSQL) y ejercicios de comprensión.
+Curso de 16 módulos para mejorar el nivel de comprensión de las bases de datos, organizado en cinco ejes: teoría formal, diseño, motor, analítica e integración. Cada módulo construye sobre el anterior con explicaciones en profundidad, ejemplos en SQL (PostgreSQL) y ejercicios de comprensión.
 
 ---
 
