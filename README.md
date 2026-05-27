@@ -87,8 +87,3 @@ Los ejemplos de código usan **PostgreSQL** como motor de referencia. Algunos m�
 
 ---
 
-## Uso sugerido
-
-Cada módulo es autocontenido y termina con ejercicios de comprensión. El orden es progresivo pero los ejes son relativamente independientes: alguien con base sólida en teoría puede empezar desde el Módulo 07 (Motor) sin perder hilo.
-
-Para sacar el máximo provecho se recomienda ejecutar los ejemplos SQL en una instancia local de PostgreSQL y resolver los ejercicios antes de avanzar al módulo siguiente.
